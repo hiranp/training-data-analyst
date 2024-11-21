@@ -111,7 +111,7 @@
     <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-core</artifactId>
-        <version>1.6.0</version>
+        <version>1.13.0</version>
     </dependency>
 
 
@@ -123,7 +123,7 @@
     <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-core-grpc</artifactId>
-        <version>1.6.0</version>
+        <version>1.13.0</version>
     </dependency>
     <dependency>
         <groupId>com.google.api.grpc</groupId>
@@ -133,7 +133,7 @@
     <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-pubsub-v1</artifactId>
-        <version>0.1.20</version>
+        <version>1.59.0</version>
     </dependency>
 
     <dependency>
@@ -144,7 +144,7 @@
     <dependency>
         <groupId>io.grpc</groupId>
         <artifactId>grpc-all</artifactId>
-        <version>1.6.1</version>
+        <version>1.27.0</version>
     </dependency>
 
 
