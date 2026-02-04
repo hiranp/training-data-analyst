@@ -1,3 +1,4 @@
 Flask==1.0
 gunicorn==19.6.0
 google-cloud-storage==0.21.0
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
